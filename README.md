@@ -72,3 +72,5 @@ Contributions to ViVi are welcome and appreciated! We value community input and 
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ronaldo45rt/ViVi/blob/main/LICENSE) file for details.
+
+Auto PR badge trigger.
